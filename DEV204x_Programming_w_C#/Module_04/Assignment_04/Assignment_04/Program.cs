@@ -180,7 +180,7 @@ namespace Assignment_04
 
         static void Main(string[] args)
         {
-            Student[] students = new Student[5];
+            Student[] students = new Student[1];
 
             for (int i = 0; i < students.Length; i++)
             {
